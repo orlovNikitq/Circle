@@ -1,0 +1,7 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\zunderz\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zunderz\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(25,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zunderz\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(25,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zunderz\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(34,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zunderz\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(40,47): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication6.vcxproj -> C:\Users\zunderz\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
